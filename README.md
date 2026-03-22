@@ -1,16 +1,39 @@
-# React + Vite
+# IT Consultant Expenses Tax Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-Currently, two official plugins are available:
+## Overview
+The **IT Consultant Expenses Tax Form** is a hyper-optimized, 100% offline, single-file financial ledger explicitly engineered for IT Consultants, 1099 Independent Contractors, and Freelancers. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Built to combat bloated SaaS subscriptions and expensive CPA software, this extremely tight optical dashboard allows consultants to securely log, calculate, and track their year-to-date IRS-compliant tax deductions directly inside their web browser without ever exposing active financial data to a cloud server. 
 
-## React Compiler
+## Key Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Zero-Server "Single File" Portability:** The entire complex React interface, styling nodes, and algorithmic calculation logic are fully bundled into one independent `index.html` file using `vite-plugin-singlefile`. You can literally drop it onto a USB thumb-drive or open it directly off your desktop inside an airplane with zero networking required.
+* **Automated IRS Constraints:** Integrates strict, built-in algorithmic compliance constraints natively (i.e. instantly applying the definitive IRS 50% deduction limit across all registered client Meal receipts, and dynamically calculating strict Home Office footprint ratios against your localized square-footage).
+* **Corporate Optical Blueprint:** Purged of any "cotton-candy" pastel color variants, the interface is visually bound by an elite Big Four firm schema utilizing deep slate, graphite, and navy visual nodes.
+* **Intelligent Offline CSV Exporting:** Zero API strings required. The application iterates over your offline ledger memory state, explicitly wraps and formats complex string combinations synchronously to bypass popup security layers, and drops a completely valid Excel/CSV matrix file exactly into your Downloads folder natively.
+* **Persistent Web Cache:** Data maps automatically securely serialize directly inside your browser’s `localStorage`, meaning you can safely close the window and immediately jump back to your figures later. 
 
-## Expanding the ESLint configuration
+## Usage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Running Locally:**
+Simply locate the completely compressed bundle map:
+`/dist/index.html`
+
+Double click that file to instantly deploy the entire React application natively into Chrome, Firefox, or Safari!
+
+**For Developers:**
+To run the source code natively using Vite:
+```bash
+npm install
+npm run dev
+```
+
+To compile a fresh single-file distribution update locally:
+```bash
+npm run build
+```
+
+## License
+This project operates confidently under the open-source **GNU General Public License v3.0**. 
