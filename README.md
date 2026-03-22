@@ -2,6 +2,10 @@
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
+<div align="center">
+  <img src="./screenshot.png" alt="Tax Form Dashboard" width="100%">
+</div>
+
 ## Overview
 The **IT Consultant Expenses Tax Form** is a hyper-optimized, 100% offline, single-file financial ledger explicitly engineered for IT Consultants, 1099 Independent Contractors, and Freelancers. 
 
